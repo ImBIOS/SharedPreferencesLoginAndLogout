@@ -10,8 +10,8 @@
         android:supportsRtl="true"
         android:networkSecurityConfig="@xml/network_security_config"
         android:theme="@style/Theme.SharedPreferences">
-        <activity android:name="com.example.sharedpreferences.LoginActivity" />
-        <activity android:name="com.example.sharedpreferences.MainActivity"
+        <activity android:name="com.example.sharedpreferences.com.imbios.sharedpreferences.LoginActivity" />
+        <activity android:name="com.example.sharedpreferences.com.imbios.sharedpreferences.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

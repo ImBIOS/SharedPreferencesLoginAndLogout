@@ -1,9 +1,10 @@
-package com.example.sharedpreferences
+package com.imbios.sharedpreferences
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.EditText
+import com.example.sharedpreferences.R
 
 class LoginActivity : AppCompatActivity() {
     private lateinit var prefManager: PrefManager

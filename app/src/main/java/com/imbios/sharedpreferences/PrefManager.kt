@@ -1,4 +1,4 @@
-package com.example.sharedpreferences
+package com.imbios.sharedpreferences
 
 import android.content.Context
 import android.content.SharedPreferences
