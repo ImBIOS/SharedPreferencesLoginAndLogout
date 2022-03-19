@@ -1,4 +1,4 @@
-package com.example.sharedpreferences
+package com.imbios.sharedpreferences
 
 import org.junit.Test
 

@@ -4,7 +4,6 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
-import com.example.sharedpreferences.R
 
 class MainActivity : AppCompatActivity() {
     private lateinit var prefManager: PrefManager
